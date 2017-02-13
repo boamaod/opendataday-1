@@ -1,6 +1,6 @@
-# Avaandmete päev / Open Data Day — Tartu 2017
+# Avaandmete päev 4. märtsil / Open Data Day on March 4th — Tartu 2017
 
-![](https://github.com/okestonia/opendataday/blob/master/logo/odd2017-plain.png?raw=true)
+![4. märtsil Tartus / March 4th in Tartu, Estonia](https://github.com/okestonia/opendataday/blob/master/logo/odd2017-plain.png?raw=true)
 
 Any ideas how to make meaningful use of some public data? Maybe visualise, calculate some statistics, some data journalism, maybe build an app? Just curious about some datasets or want to scrape something that's not so directly available yet?
 
