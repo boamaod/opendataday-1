@@ -20,3 +20,4 @@ Currently the team consists of:
 * Eno Menov
 
 Soon we will have information about Open Data Day 2017 on http://opendata.ee and we are currently putting together the list of workshops/tracks that will be hosted on Open Data Day. And, yes, we strongly encourage you to bring your own ideas to the event, so contact us in advance to make the most of it!
+
