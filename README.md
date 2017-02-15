@@ -1,6 +1,8 @@
 # Avaandmete päev 4. märtsil / Open Data Day on March 4th — Tartu 2017
 
-![4. märtsil Tartus / March 4th in Tartu, Estonia](https://github.com/okestonia/opendataday/blob/master/logo/odd2017-plain.png?raw=true)
+![4. märtsil Tartus / March 4th in Tartu, Estonia](https://github.com/okestonia/opendataday/blob/master/images/odd2017-plain.png?raw=true)
+
+Facebook event: https://www.facebook.com/events/1856419724613761/
 
 Any ideas how to make meaningful use of some public data? Maybe visualise, calculate some statistics, some data journalism, maybe build an app? Just curious about some datasets or want to scrape something that's not so directly available yet?
 
@@ -18,6 +20,7 @@ Currently the team consists of:
 * Werko Pihor
 * Nicola Vitucci
 * Eno Menov
+* Tõnis Kärdi
 
 Soon we will have information about Open Data Day 2017 on http://opendata.ee and we are currently putting together the list of workshops/tracks that will be hosted on Open Data Day. And, yes, we strongly encourage you to bring your own ideas to the event, so contact us in advance to make the most of it!
 
