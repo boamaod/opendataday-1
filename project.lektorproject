@@ -15,22 +15,12 @@ name = English
 primary = yes
 locale = en
 
-[alternatives.de]
-name = German
-url_prefix = /de/
-locale = de
+[alternatives.et]
+name = Estonian
+url_prefix = /et/
+locale = et
 
-[alternatives.de_at]
-name = Österreich
-url_prefix = /de_at/
-locale = de_at
-
-[alternatives.es_mx]
-name = Español
-url_prefix = /es_mx/
-locale = es_mx
-
-[alternatives.pt_br]
-name = Português brasileiro
-url_prefix = /pt_br/
-locale = pt_br
+[alternatives.ru]
+name = Russian
+url_prefix = /ru/
+locale = ru
