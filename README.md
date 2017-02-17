@@ -28,21 +28,20 @@ Soon we will have information about Open Data Day 2017 on http://opendata.ee and
 
 This site is built with [Lektor](https://www.getlektor.com/).
 
-It has a bunch of [dependencies](https://github.com/okfn/opendataday/blob/v2/package.json), so do `npm install` and then `npm run build`.
+It has a bunch of dependencies, so do `npm install` and then `npm run build`.
 
-`grunt` will watch for changes to your [SCSS files](https://github.com/okfn/opendataday/tree/v2/assets/scss), and also [icons](https://github.com/okfn/opendataday/tree/v2/assets/icons) (see [svgstore](https://github.com/FWeinb/grunt-svgstore)).
+`grunt` will watch for changes to your SCSS files, and also icons (see [svgstore](https://github.com/FWeinb/grunt-svgstore)).
 
 `lektor deploy` will deploy to the gh-pages branch, putting changes live, if you have deploy permissions.
 
 #### Translations
 
-To translate the site we need to duplicate the [contents.lr](https://github.com/okfn/opendataday/blob/v2/content/contents.lr) file, and save with the language code in the file name, like [contents+de.lr](https://github.com/okfn/opendataday/blob/v2/content/contents%2Bde.lr).
+To translate the site we need to duplicate the `contents.lr` file, and save with the language code in the file name, like `contents+et.lr`.
 
-We also need to add translations to [global-content.ini](https://github.com/okfn/opendataday/blob/v2/databags/global-content.ini) and [main-nav.ini
-](https://github.com/okfn/opendataday/blob/v2/databags/main-nav.ini).
+We also need to add translations to `global-content.ini` and `main-nav.ini`.
 
 If we are adding new language to the site we also need to:
 
-- Add the new language to [languages.json](https://github.com/okfn/opendataday/blob/v2/databags/languages.json)
-- Add the language to [project.lektorproject](https://github.com/okfn/opendataday/blob/v2/project.lektorproject).
+- Add the new language to `languages.json`;
+- Add the language to `project.lektorproject`.
 
