@@ -2,103 +2,103 @@ language: ru
 ---
 next_date: 2017-03-04
 ---
-title: You are invited
+title: Вы приглашены
 ---
-banner_heading_1: You are invited.
+banner_heading_1: Вы приглашены.
 ---
-banner_heading_2: Again!
+banner_heading_2: Снова!
 ---
-banner_content_1: Open Data Day will take place on
+banner_content_1: День Открытых Данных
 ---
-banner_content_2: Saturday, 4 March 2017
+banner_content_2: Суббота, 4 марта 2017
 ---
-intro_heading: What is Open Data Day?
+intro_heading: Что такое День Открытых Данных?
 ---
 intro_body:
 
-Open Data Day is an annual celebration of open data all over the world. For the fifth time in history, groups from around the world will create local events on the day where they will use open data in their communities. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society.
+День открытых данных является ежегодным празднованием открытых данных по всему миру. Это возможность показать преимущества открытых данных и способствовать принятию политики открытых данных в правительстве, бизнесе а также гражданском обществе.
 ---
 intro_body_2:
 
-All outputs are open for everyone to use and re-use.
+Результаты будут доступны для использования и повторного использования всем желающим.
 ---
 year_intro:
 
-Our focus this year is on Open Data in science and how to use data to establish facts in the age of post-truth problematics. We will have workshops on many different tracks, from linked data methods to using data in humanities as well as data journalism.
+В этом году фокус нашего внимания нацелен на Открытые Данные в науке. Наши воркшопы пройдут по многим разным направлениям, от методов связных данных до гуманитарных данных, а также, что немаловажно, о данных в области журналистики.
 ---
-register_text: Register your event here
+register_text: Зарегистрируйте свое событие здесь. 
 ---
-events_registered: events registered
+events_registered: события зарегистрированы.
 ---
-who_heading: Who is this for? Everyone!
+who_heading: Для кого это событые? Для каждого!
 ---
 who_body:
 
-If you have an idea for using open data, want to find an interesting project to contribute towards, learn about how to visualise or analyse data or simply want to see what's happening, then definitely come participate! Participation is a core value of Open Data Day, everyone is free to voice their opinions in a constructive manner. No matter your skill-set or interests, we are encouraging organisers to foster opportunities for you to learn and help the global open data community grow.
+Если у Вас есть идея о способах использования свободных данных, Вы хотите найти интересный проэкт и присоединиться, или есть желание научиться как визуализировать и/или анализировать данные, либо же просто интересно прийти посмотреть что происходит, тогда это точно для вас, неприменно приходите и становитесь учасником! Участие являеться основной ценностью Дня Открытых Данных где каждый свободно может выразить свое констуктивное мнение. Ваш опыт и сфера деятельности не имеют значения. Мы содействуем организаторам в желании увеличить для Вас возможности обучения и помощи глобальному обществу открытых данных расти и развиваться.
 ---
-who_title_1: Citizens
+who_title_1: Граждане
 ---
 who_description_1:
 
-We need you the most. If it wasn’t for you, this whole thing wouldn’t be happening. We need ideas, cheerleaders, and friends to spread the word.
+Вы нужны нам более всего. Еслы бы это мероприятие небыло бы для вас, оно бы не воплотилось в жизнь. Нам нужны идеи, болельщики и друзья для распространения слова.
 ---
-who_title_2: Public Servants
+who_title_2: Государственные служащие
 ---
 who_description_2:
 
-Your input and context can help us to make government data better. Come converse and learn.
+Ваш вклад и контекст могут помочь нам сделать государственные данные лучше. Приходите для дискусии и обучения.
 ---
-who_title_3: Designers
+who_title_3: Дизайнеры
 ---
 who_description_3:
 
-Help us make open data relatable, so more people will use it and understand it.
+Помогите нам усовершенствовать данные, чтобы больше людей мого понять и использовать их.
 ---
-who_title_4: Developers
+who_title_4: Разработчики
 ---
 who_description_4:
 
-Use your skills to develop solutions that can help solve important societal issues.
+Используйте ваше мастерство для разработки решение, которое может помочь решить важные социальные вопросы.
 ---
-who_title_5: Statisticians
+who_title_5: Статистики
 ---
 who_description_5:
 
-Use your skills to help understand the data and get important insights from it.
+Используйте свое мастерство чтобы помочь понять данные и получить важные аналитические сведения с этих данных.
 ---
-resources_heading: Event Resources
+resources_heading: Ресурсы для проведения мероприятий
 ---
 resources_intro:
 
-Find all the details about the event here!
+Все детали мероприятия сдесь!
 ---
-resources_button: Resources
+resources_button: Ресурсы
 ---
-resources_materials_heading: Contacts
+resources_materials_heading: Контакты
 ---
 resources_materials_text:
 
-Follow us on [Facebook](https://www.facebook.com/events/1856419724613761)!  
-We also discuss on Skype in [this chat](https://join.skype.com/gBhU1FMq2Rdx)  
-Find our Github repo [here](https://github.com/okestonia/opendataday/)!  
+Следи за нами на [Фейсбуке](https://www.facebook.com/events/1856419724613761)!  
+Мы также ведем дисскусию в Скайпе [этот чат](https://join.skype.com/gBhU1FMq2Rdx)  
+Найди нас на Гитхабе [здесь](https://github.com/okestonia/opendataday/)!  
 ---
-resources_ideas_heading: Program
+resources_ideas_heading: Программа
 ---
 resources_ideas_intro:
 
-The exact schedule and venue to be used is still under discussion and you are most welcome to suggest or host your own track or workshop during the event. Feel free to contact us or [file an issue](https://github.com/okestonia/opendataday/issues) on Github. We will list our tracks here!
+Точное рассписание и место, которое мы будем использовать еще в процессе дискуссии. Если у Вас есть какаие либо идеи или Вы хотите предложить свой собственный путь, хост или воркшоп, мы более чем приветствуем любые предложения. Вы можете свободно писать нам или загружать [файл предложения](https://github.com/okestonia/opendataday/issues) на Гитхаб. Мы будем выставлять список на Гитхабе!
 ---
-resources_ideas_theme_1: Scientific data
+resources_ideas_theme_1: Научные данные
 ---
 resources_ideas_theme_1_text:
 
 ---
-resources_ideas_theme_2: Public databases 
+resources_ideas_theme_2: База публичных данных
 ---
 resources_ideas_theme_2_text:
 
 ---
-resources_ideas_theme_3: Data for humanities
+resources_ideas_theme_3: Данные для гуманитарных наук
 ---
 resources_ideas_theme_3_text:
 
@@ -107,8 +107,8 @@ resources_ideas_theme_4:
 ---
 resources_ideas_theme_4_text:
 ---
-support_scheme_heading: Partners
+support_scheme_heading: Партнеры
 ---
 support_scheme_body:
 
-We will announce our partners soon!
+Скоро мы обьявим наших партнеров!

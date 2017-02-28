@@ -87,22 +87,26 @@ resources_ideas_heading: Program
 resources_ideas_intro:
 The venue of the event is **[Ülikooli 17 (Paabel)](https://www.google.ee/maps/place/%C3%9Clikooli+17,+51005+Tartu/@58.3812397,26.718511,17z/data=!3m1!4b1!4m5!3m4!1s0x46eb36e6ce42ef31:0xce02b9debacebbb6!8m2!3d58.3812369!4d26.7206997)** and we will meet there **from 11:00 to 16:00**.  
 
-The exact schedule is still under discussion and you are most welcome to suggest or host your own track or workshop during the event. Feel free to contact us or [file an issue](https://github.com/okestonia/opendataday/issues) on Github. We will list our tracks here!
+The exact schedule is still under discussion and you are most welcome to suggest or host your own track or workshop during the event. Feel free to contact us or [file an issue](https://github.com/okestonia/opendataday/issues) on Github.
 ---
-resources_ideas_theme_1: Scientific data
+resources_ideas_theme_1: Estonian data
 ---
 resources_ideas_theme_1_text:
 
+- Estonian Open Data [issue tracker](https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/issues) *(Hille Hinsberg, Board of Open Knowledge Estonia)*
+- Development of the [Open Data Portal of Estonia](https://opendata.riik.ee) and other Estonian data portals *(Märt Põder, Board of Open Knowledge Estonia)*
 ---
-resources_ideas_theme_2: Public databases 
+resources_ideas_theme_2: Data for humanities 
 ---
 resources_ideas_theme_2_text:
 
+- The importance of Open Data in humanities *(Digital Humanities Association)*
 ---
-resources_ideas_theme_3: Data for humanities
+resources_ideas_theme_3: Data tools
 ---
 resources_ideas_theme_3_text:
 
+- Linked (Open) Data: Principles and tools *(Nicola Vitucci)*
 ---
 resources_ideas_theme_4: 
 ---
@@ -112,4 +116,5 @@ support_scheme_heading: Partners
 ---
 support_scheme_body:
 
-We will announce our partners soon!
+Organization: [Open Knowledge Estonia](http://www.opendata.ee)  
+Venue: [UT Arvutiteaduse Instituut (Institute of Computer Science)](https://www.cs.ut.ee)  

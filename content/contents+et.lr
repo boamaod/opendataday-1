@@ -2,103 +2,103 @@ language: et
 ---
 next_date: 2017-03-04
 ---
-title: You are invited
+title: Olete oodatud
 ---
-banner_heading_1: You are invited.
+banner_heading_1: Olete oodatud.
 ---
-banner_heading_2: Again!
+banner_heading_2: Jälle!
 ---
-banner_content_1: Open Data Day will take place on
+banner_content_1: Avaandmete Päev toimub
 ---
-banner_content_2: Saturday, 4 March 2017
+banner_content_2: laupäeval, 4. märtsil 2017
 ---
-intro_heading: What is Open Data Day?
+intro_heading: Mis on Avaandmete Päev?
 ---
 intro_body:
 
-Open Data Day is an annual celebration of open data all over the world. For the fifth time in history, groups from around the world will create local events on the day where they will use open data in their communities. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society.
+Avaandmete Päeva tähistatakse igal aastal üle maailma. Juba viies kord ajaloos korraldavad inimesed kõikjal maailmas kohalikke üritusi, et sel päeval enda kogukonna heaks avaandmeid kasutada. See on hea võimalus inimestele näidata, millist kasu avaandmete kasutamine neile pakub ja innustada avaandmete kasutamise hea tava rakendamist nii valitsuses, ettevõtluses kui kogu ühiskonnas laiemalt.
+
 ---
 intro_body_2:
 
-All outputs are open for everyone to use and re-use.
+Kõik väljundid on kõigile kasutamiseks avatud.
 ---
 year_intro:
 
-Our focus this year is on Open Data in science and how to use data to establish facts in the age of post-truth problematics. We will have workshops on many different tracks, from linked data methods to using data in humanities as well as data journalism.
+Meie erilise tähelepanu all sel aastal on avaandmete kasutamine teaduses ja kuidas põhistada fakte pärast-tõe ajastu problemaatikas. Toimuvad töötoad erinevates suundades, andmete sidumise meetoditest kuni andmete kasutamiseni humanitaarias ja andmete-põhise ajakirjanduseni.
 ---
-register_text: Register your event here
+register_text: Registreeri sündmus siin.
 ---
-events_registered: events registered
+events_registered: sündmused registreeritud
 ---
-who_heading: Who is this for? Everyone!
+who_heading: Kelle jaoks see on? Kõigile!
 ---
 who_body:
 
-If you have an idea for using open data, want to find an interesting project to contribute towards, learn about how to visualise or analyse data or simply want to see what's happening, then definitely come participate! Participation is a core value of Open Data Day, everyone is free to voice their opinions in a constructive manner. No matter your skill-set or interests, we are encouraging organisers to foster opportunities for you to learn and help the global open data community grow.
+Kui sul on idee kuidas avaandmeid kasutada, soovid leida huvitava projekti, millele kaasa aidata, õppida kuidas andmeid visualiseerida ja analüüsida või lihtsalt näha mis toimub, siis tule kindlasti meie üritusele. Innustada inimesi osalema on Avaandmete Päeva tuumik missioon, kõigil on õigus ja vabadus oma arvamust konstruktiivsel viisil avaldada. Pole oluline millised on sinu oskused või huvid, meie eesmärk on innustada osalejaid õppima ja abistama, et ülemaailmne avaandmete kogukond ainult kasvaks.
 ---
-who_title_1: Citizens
+who_title_1: Kodanikud
 ---
 who_description_1:
 
-We need you the most. If it wasn’t for you, this whole thing wouldn’t be happening. We need ideas, cheerleaders, and friends to spread the word.
+Sind vajame me kõige enam. Ilma sinua seda üritust ei toimuks. Me vajame ideid, eestvedajaid, sõpru, kes infot laiali saadavad.
 ---
-who_title_2: Public Servants
+who_title_2: Riigiametnikud
 ---
 who_description_2:
 
-Your input and context can help us to make government data better. Come converse and learn.
+Teie panus aitab meil muuta valitsuse kogutud andmete hulka paremaks. Tulge osalege ja õppige.
 ---
-who_title_3: Designers
+who_title_3: Disainerid
 ---
 who_description_3:
 
-Help us make open data relatable, so more people will use it and understand it.
+Aidake meil muuta avaandmed omavahel siduvaks, et rohkem inimesi seda mõistaksid ja kasutaksid.
 ---
-who_title_4: Developers
+who_title_4: Tarkvaraarendajad
 ---
 who_description_4:
 
-Use your skills to develop solutions that can help solve important societal issues.
+Kasutage oma oskusi, et arendada lahendusi, mis aitavad lahendada olulisi ühiskondlikke probleeme.
 ---
-who_title_5: Statisticians
+who_title_5: Statistikud
 ---
 who_description_5:
 
-Use your skills to help understand the data and get important insights from it.
+Kasutage enda oskusi, et aidata andmeid mõista ja neist oluliseim esile tuua.
 ---
-resources_heading: Event Resources
+resources_heading: Info sündmuse kohta
 ---
 resources_intro:
 
-Find all the details about the event here!
+Kogu info sündmuse kohta leiad siit!
 ---
-resources_button: Resources
+resources_button: Allikad
 ---
-resources_materials_heading: Contacts
+resources_materials_heading: Kontaktid
 ---
 resources_materials_text:
 
-Follow us on [Facebook](https://www.facebook.com/events/1856419724613761)!  
-We also discuss on Skype in [this chat](https://join.skype.com/gBhU1FMq2Rdx)  
-Find our Github repo [here](https://github.com/okestonia/opendataday/)!  
+Järgi meid [Facebook](https://www.facebook.com/events/1856419724613761)!  
+Ühine meie aruteluga Skypes [this chat](https://join.skype.com/gBhU1FMq2Rdx)  
+Leia meid Githubis [here](https://github.com/okestonia/opendataday/)!  
 ---
-resources_ideas_heading: Program
+resources_ideas_heading: Programm
 ---
 resources_ideas_intro:
-
-The exact schedule and venue to be used is still under discussion and you are most welcome to suggest or host your own track or workshop during the event. Feel free to contact us or [file an issue](https://github.com/okestonia/opendataday/issues) on Github. We will list our tracks here!
+Ürituse täpne kava ja asukoht on veel täpsustamisel. Olete meeleldi oodatud tegema ettepanekuid ja andma soovitusi või korraldama oma töötoa sündmuse jooksul. Võtke meiega ühendust https://github.com/okestonia/opendataday/issues
 ---
-resources_ideas_theme_1: Scientific data
+resources_ideas_theme_1: Teadusandmed
 ---
 resources_ideas_theme_1_text:
 
 ---
-resources_ideas_theme_2: Public databases 
+resources_ideas_theme_2: Avalikud andmebaasid
 ---
 resources_ideas_theme_2_text:
 
 ---
-resources_ideas_theme_3: Data for humanities
+resources_ideas_theme_3: Andmed humanitaarias
 ---
 resources_ideas_theme_3_text:
 
@@ -107,8 +107,8 @@ resources_ideas_theme_4:
 ---
 resources_ideas_theme_4_text:
 ---
-support_scheme_heading: Partners
+support_scheme_heading: Partnerid
 ---
 support_scheme_body:
 
-We will announce our partners soon!
+Me avalikustame enda partnerid siin varsti.
