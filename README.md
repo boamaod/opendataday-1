@@ -4,8 +4,10 @@
 
 This is repository for oganizing the event, information about program and participants is found at:
 
-Facebook event: https://www.facebook.com/events/1856419724613761
-Web page: http://opendata.ee/opendataday
+* Facebook event: https://www.facebook.com/events/1856419724613761
+* Web page: http://opendata.ee/opendataday
+
+See you con Saturday!
 
 ## Call for participation
 
