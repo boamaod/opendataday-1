@@ -2,7 +2,12 @@
 
 ![4. märtsil Tartus / March 4th in Tartu, Estonia](https://github.com/okestonia/opendataday/blob/master/images/odd2017-plain.png?raw=true)
 
-Facebook event: https://www.facebook.com/events/1856419724613761/
+This is repository for oganizing the event, information about program and participants is found at:
+
+Facebook event: https://www.facebook.com/events/1856419724613761
+Web page: http://opendata.ee/opendataday
+
+## Call for participation
 
 Any ideas how to make meaningful use of some public data? Maybe visualise, calculate some statistics, some data journalism, maybe build an app? Just curious about some datasets or want to scrape something that's not so directly available yet?
 
