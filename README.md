@@ -39,7 +39,9 @@ It has a bunch of dependencies, so do `npm install` and then `npm run build`.
 
 `grunt` will watch for changes to your SCSS files, and also icons (see [svgstore](https://github.com/FWeinb/grunt-svgstore)).
 
-`lektor deploy` will deploy to the gh-pages branch, putting changes live, if you have deploy permissions.
+You can launch `lektor server` to run a local server and preview the site on `http://localhost:5000`.
+
+`lektor deploy` will deploy to the gh-pages branch, **putting changes live**, if you have deploy permissions. Remember that, in order to deploy correctly, you have to build the site first (you can use `lektor build && lektor deploy` to build and then deploy).
 
 #### Translations
 
