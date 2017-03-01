@@ -7,7 +7,7 @@ This is repository for oganizing the event, information about program and partic
 * Facebook event: https://www.facebook.com/events/1856419724613761
 * Web page: http://opendata.ee/opendataday
 
-See you con Saturday!
+See you on Saturday!
 
 ## Call for participation
 
