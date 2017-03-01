@@ -24,7 +24,7 @@ All outputs are open for everyone to use and re-use.
 ---
 year_intro:
 
-Our focus this year is on Open Data in science and how to use data to establish facts in the age of post-truth problematics. We will have workshops on many different tracks, from linked data methods to using data in humanities as well as data journalism.
+Our focus this year is on Open Data in science and how to use data to establish facts in the age of post-truth problematics. We will have workshops on many different tracks, from linked data methods to using data in humanities.
 ---
 register_text: Register your event here
 ---
@@ -78,43 +78,51 @@ resources_materials_heading: Contacts
 ---
 resources_materials_text:
 
-Follow us on [Facebook](https://www.facebook.com/events/1856419724613761)!  
-We also discuss on Skype in [this chat](https://join.skype.com/gBhU1FMq2Rdx)  
-Find our Github repo [here](https://github.com/okestonia/opendataday/)!  
+Follow us on [Facebook](https://www.facebook.com/events/1856419724613761)! We also discuss on Skype in [this chat](https://join.skype.com/gBhU1FMq2Rdx), and you can find our Github repo [here](https://github.com/okestonia/opendataday/).
 ---
 resources_ideas_heading: Program
 ---
 resources_ideas_intro:
-The venue of the event is **[Ülikooli 17 (Paabel)](https://www.google.ee/maps/place/%C3%9Clikooli+17,+51005+Tartu/@58.3812397,26.718511,17z/data=!3m1!4b1!4m5!3m4!1s0x46eb36e6ce42ef31:0xce02b9debacebbb6!8m2!3d58.3812369!4d26.7206997)** and we will meet there **from 11:00 to 16:00**.  
+The venue of the event is **[Ülikooli 17 (Paabel)](https://www.google.ee/maps/place/%C3%9Clikooli+17,+51005+Tartu/@58.3812397,26.718511,17z/data=!3m1!4b1!4m5!3m4!1s0x46eb36e6ce42ef31:0xce02b9debacebbb6!8m2!3d58.3812369!4d26.7206997)** and we will meet there **from 11:00 to 16:00**. The presentations will start at 11:30 and will end around 15:00.  
 
 The exact schedule is still under discussion and you are most welcome to suggest or host your own track or workshop during the event. Feel free to contact us or [file an issue](https://github.com/okestonia/opendataday/issues) on Github.
 ---
-resources_ideas_theme_1: Estonian data
+resources_ideas_theme_1: Main track
 ---
 resources_ideas_theme_1_text:
 
-- Estonian Open Data [issue tracker](https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/issues) *(Hille Hinsberg, Board of Open Knowledge Estonia)*
-- Development of the [Open Data Portal of Estonia](https://opendata.riik.ee) and other Estonian data portals *(Märt Põder, Board of Open Knowledge Estonia)*
+- Estonian Open Data [issue tracker](https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/issues) and Open Data Index — *Hille Hinsberg, Board of Open Knowledge Estonia*
+- Experience with using Open Data in Regio maps — *Risto Ülem*
+- Resources for open research data (DataCite, OpenAire) — *Tiiu Tarkpea, Tartu University Library*
+- Datasets of folkloristics: Literary Museum and examples of use — *Mari Sarv, Society for Digital Humanities*
+- Development of the [Open Data Portal of Estonia](https://opendata.riik.ee) and status of the Open Data infrastructure — *Märt Põder, Board of Open Knowledge Estonia*
+- Hacking municipal decision flow data — *Gea Kangilaski, Open Tartu project*
+- Linked (Open) Data: Principles, tools and example — *Nicola Vitucci*
+- Challenges of using public photographic material in Wikipedia — *Ivo Kruusamägi*
 ---
-resources_ideas_theme_2: Data for humanities 
+resources_ideas_theme_2:
 ---
 resources_ideas_theme_2_text:
 
-- The importance of Open Data in humanities *(Digital Humanities Association)*
 ---
-resources_ideas_theme_3: Data tools
+resources_ideas_theme_3:
 ---
 resources_ideas_theme_3_text:
 
-- Linked (Open) Data: Principles and tools *(Nicola Vitucci)*
 ---
-resources_ideas_theme_4: 
+resources_ideas_theme_4: Workshops 
 ---
 resources_ideas_theme_4_text:
+
+- State of Open Data materials available for users of data, data publishers, governments — *Käbi Suvi*
+- Challenges of uploading, licensing photos in Wikipedia — *Marta Peebo/Ivo Kruusamägi*
+- Wikidata: Introduction and editing — *Nicola Vitucci*
+- "Data expedition" into religiousness of Estonians — *Märt Põder*
 ---
 support_scheme_heading: Partners
 ---
 support_scheme_body:
 
 Organization: [Open Knowledge Estonia](http://www.opendata.ee)  
-Venue: [UT Arvutiteaduse Instituut (Institute of Computer Science)](https://www.cs.ut.ee)  
+Venue: [UT Arvutiteaduse Instituut (Institute of Computer Science)](https://www.cs.ut.ee)   
+Coffee and snacks: [Wikimedia Estonia](https://ee.wikimedia.org)  
