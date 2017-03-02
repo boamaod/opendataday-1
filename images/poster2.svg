@@ -46,14 +46,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1">
     <rect
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#ff8000;stroke-width:0.25360253;stroke-opacity:1"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:0.25360253;stroke-opacity:1"
        id="rect4323"
        width="212.74823"
        height="38.230038"
@@ -257,7 +257,7 @@
            x="36.260693"
            y="336.6077" /></flowRegion><flowPara
          id="flowPara4269"></flowPara></flowRoot>    <rect
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#ff8000;stroke-width:0.2837607;stroke-opacity:1"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:0.2837607;stroke-opacity:1"
        id="rect4281"
        width="212.31023"
        height="91.210739"
