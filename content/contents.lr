@@ -16,11 +16,12 @@ intro_heading: What is Open Data Day?
 ---
 intro_body:
 
-Open Data Day is an annual celebration of open data all over the world. For the fifth time in history, groups from around the world will create local events on the day where they will use open data in their communities. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business and civil society.
+Open Data day is an annual meetup by Open Data enthusiasts for everybody interested in the potential of data in the information age. If you are interested in using more data, making better use of data or finding more data to use, then join us on Open Data Day in Tartu.
+
+The event will be held in [Paabel (Ülikooli 17)](https://www.facebook.com/events/1856419724613761/) on Saturday, 4 March, from 11:00 to 16:00.
 ---
 intro_body_2:
 
-All outputs are open for everyone to use and re-use.
 ---
 year_intro:
 
@@ -30,9 +31,35 @@ register_text: Register your event here
 ---
 events_registered: events registered
 ---
-who_heading: Who is this for? Everyone!
+who_heading: What is going on this year?
 ---
 who_body:
+
+The event is language neutral, which means that we use English wherever possible and the majority of topics will be presented in English. There are no language restrictions for participants for asking questions or making comments: we try to include everybody in the discussions and do ad hoc translation where needed.
+
+You are welcome to pop in to any of our workshops/presentations or just come to meet other people interested in data:
+
+- Estonian Open Data [issue tracker](https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/issues) and Open Data Index — *Hille Hinsberg, Board of Open Knowledge Estonia*  
+- Experience with using Open Data in Regio maps — *Risto Ülem*  
+- Resources for open research data (DataCite, OpenAire) — *Tiiu Tarkpea, Tartu University Library*  
+- Availability and use cases of environmental data — *Kristjan Piirimäe, Estonian Fund for Nature*  
+- TEXTA Law: legal text search tool based on public data — *Silver Traat*  
+
+
+- Datasets of folkloristics: Literary Museum and examples of use — *Mari Sarv, Society for Digital Humanities*  
+- Development of the [Open Data Portal of Estonia](https://opendata.riik.ee) and status of the Open Data infrastructure — *Märt Põder, Board of Open Knowledge Estonia*  
+- Hacking municipal decision flow data — *Gea Kangilaski, Open Tartu project*  
+- Linked Open Data: Principles, tools and examples — *Nicola Vitucci*  
+- Challenges of using public photographic material in Wikipedia — *Ivo Kruusamägi*  
+
+Workshops (there will be ad hoc workshops too and you can host your own, if you want):
+
+- State of Open Data materials available for users of data, data publishers, governments — *Käbi Suvi*
+- Challenges of uploading, licensing photos in Wikipedia — *Marta Peebo/Ivo Kruusamägi*
+- Wikidata: Introduction and editing — *Nicola Vitucci*
+- "Data expedition" into religiousness of Estonians — *Märt Põder*
+
+Some additional workshops and presentations are still discussed, so check either here or our [Facebook page](https://www.facebook.com/events/1856419724613761) for the latest program.
 
 If you have an idea for using open data, want to find an interesting project to contribute towards, learn about how to visualise or analyse data or simply want to see what's happening, then definitely come participate! Participation is a core value of Open Data Day, everyone is free to voice their opinions in a constructive manner. No matter your skill-set or interests, we are encouraging organisers to foster opportunities for you to learn and help the global open data community grow.
 ---
@@ -87,18 +114,10 @@ The venue of the event is **[Ülikooli 17 (Paabel)](https://www.google.ee/maps/p
 
 The exact schedule is still under discussion and you are most welcome to suggest or host your own track or workshop during the event. Feel free to contact us or [file an issue](https://github.com/okestonia/opendataday/issues) on Github.
 ---
-resources_ideas_theme_1: Main track
+resources_ideas_theme_1:
 ---
 resources_ideas_theme_1_text:
 
-- Estonian Open Data [issue tracker](https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/issues) and Open Data Index — *Hille Hinsberg, Board of Open Knowledge Estonia*
-- Experience with using Open Data in Regio maps — *Risto Ülem*
-- Resources for open research data (DataCite, OpenAire) — *Tiiu Tarkpea, Tartu University Library*
-- Datasets of folkloristics: Literary Museum and examples of use — *Mari Sarv, Society for Digital Humanities*
-- Development of the [Open Data Portal of Estonia](https://opendata.riik.ee) and status of the Open Data infrastructure — *Märt Põder, Board of Open Knowledge Estonia*
-- Hacking municipal decision flow data — *Gea Kangilaski, Open Tartu project*
-- Linked (Open) Data: Principles, tools and examples — *Nicola Vitucci*
-- Challenges of using public photographic material in Wikipedia — *Ivo Kruusamägi*
 ---
 resources_ideas_theme_2:
 ---
@@ -110,14 +129,10 @@ resources_ideas_theme_3:
 resources_ideas_theme_3_text:
 
 ---
-resources_ideas_theme_4: Workshops 
+resources_ideas_theme_4: 
 ---
 resources_ideas_theme_4_text:
 
-- State of Open Data materials available for users of data, data publishers, governments — *Käbi Suvi*
-- Challenges of uploading, licensing photos in Wikipedia — *Marta Peebo/Ivo Kruusamägi*
-- Wikidata: Introduction and editing — *Nicola Vitucci*
-- "Data expedition" into religiousness of Estonians — *Märt Põder*
 ---
 support_scheme_heading: Partners
 ---
