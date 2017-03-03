@@ -96,7 +96,7 @@ resources_heading: Info sündmuse kohta
 ---
 resources_intro:
 
-Miks on andmed olulised ja selline üritus vajalik
+Miks on andmed olulised ja selline üritus vajalik?
 
 ---
 resources_button: Lisainfo
@@ -105,15 +105,17 @@ resources_materials_heading: Kontaktid
 ---
 resources_materials_text:
 
-Sündmus [Facebookis](https://www.facebook.com/events/1856419724613761)!  
+Sündmus [Facebookis](https://www.facebook.com/events/1856419724613761)  
 Arutelu [Skype'is](https://join.skype.com/gBhU1FMq2Rdx)  
-Ürituse materjalid [Githubis](https://github.com/okestonia/opendataday/)!  
+Ürituse materjalid [GitHubis](https://github.com/okestonia/opendataday/)  
 ---
 resources_ideas_heading: Taustast
 ---
 resources_ideas_intro:
 
 Esimest korda toimus Eestis avaandmete päev [5.03.2016 Tartus](http://opendata.ee/et/blog/tartu-linna-andmekogude-avamine/). Sellele järgnenud aasta jooksul toimus andmeteadlaste ja andmehuviliste koondumine, mille tulemuseks oli [Open Knowledge Estonia asutamine](http://opendata.ee/et/blog/want-to-join-open-data-estonia-as-formal-organization/) 27.10.2016. Ühelt poolt oli põhjuseks andmete valdkonna muutumine järjest olulisemaks, teiselt poolt soov kiirendada Eesti arengut avalike andmekogude pakkumise vallas.
+
+Avaandmete päeval algatame ka [avaandmete turuplatsi](https://github.com/okestonia/Estonian-Open-Data-Issue-Tracker/issues), et koordineerida andmekogude avamist huvigruppide jaoks ja anda teabevaldajatele orientiire andmehulkade prioritiseerimiseks.
 
 ---
 resources_ideas_theme_1:
@@ -141,5 +143,5 @@ support_scheme_body:
 
 Algataja: [Open Knowledge Estonia](https://ee.okfn.org/et)  
 Kaaskorraldaja: [Wikimedia Eesti](https://ee.wikimedia.org)  
-Toetaja: [MTÜ Häkkerikoda](https://hackest.org)
+Toetaja: [MTÜ Häkkerikoda](https://hackest.org)   
 Ruumide eest täname: [TÜ Arvutiteaduse Instituut](https://www.cs.ut.ee)  
