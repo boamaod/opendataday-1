@@ -25,6 +25,7 @@ Currently the team consists of:
 
 * Märt Põder
 * Werko Pihor
+* Maria Deriaga
 * Nicola Vitucci
 * Eno Menov
 * Tõnis Kärdi
